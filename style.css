@@ -1,0 +1,47 @@
+.green-button {
+    background: #454411;
+    color: white;
+}
+
+.the-best-class {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: wavy;
+    text-align: center;
+}
+
+button:hover {
+    background: #454411;
+    border: 10px #8e3d10;
+}
+
+.highlighted {
+    background: black;
+    border: 5px solid #8e3d10;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+.image {
+    width: 300px;
+    height: auto;
+
+}
+
+.imagep {
+    text-align: left;
+    height: 100px;
+    width: auto;
+}
+
+body {
+    background: #454411;
+}
+
+.delius-regular {
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+}

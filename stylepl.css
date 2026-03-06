@@ -1,0 +1,63 @@
+body {
+    background: #8e3d10;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.entry {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: antiquewhite;
+}
+
+.title {
+    text-align: center;
+    font-family: "Delius", cursive;
+    font-size: 60px;
+    color: antiquewhite;
+    text-shadow: 2px 2px black;
+}
+
+.welcome {
+    color: whitesmoke;
+    text-align: center;
+    background-color: #454411;
+    font-size: 20px;
+    border: 5px solid black;
+    border-radius: 20px;
+    text-shadow: 1px 1px black;
+}
+
+.machine {
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    text-shadow: 1px 1px black;
+}
+
+.imagemachine {
+    height: 550px;
+    width: auto;
+    text-align: center;
+}
+
+.imagecoin {
+    height: 250px;
+    text-align: center;
+}
+
+.description {
+    color: whitesmoke;
+    text-align: center;
+    background-color: #454411;
+    font-size: 20px;
+    border: 5px solid black;
+    border-radius: 20px;
+    text-shadow: 1px 1px black;
+}
+
+.direction {
+    font-size: 20px;
+    text-align: center;
+    color: antiquewhite;
+    text-shadow: 1px 1px black;
+}
